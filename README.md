@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Unit Converter using Flask
 
-# Run and deploy your AI Studio app
+## Features
+- Temperature Conversion
+- Length Conversion
+- Weight Conversion
+- Currency Conversion
 
-This contains everything you need to run your app locally.
+## Tech Stack
+- Python Flask
+- HTML/CSS
+- Docker
 
-View your app in AI Studio: https://ai.studio/apps/e4c8cb4e-3044-473c-940f-6f11f45f8c3f
+## Run
+python app.py
 
-## Run Locally
+Open:
+http://localhost:5000
 
-**Prerequisites:**  Node.js
+## Screenshots
 
+### Screenshot 1
+![Screenshot 1](Screenshot1.png)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Screenshot 2
+![Screenshot 2](Screenshot2.png)
